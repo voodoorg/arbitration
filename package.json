@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/voodoorg/arbitration#readme",
   "devDependencies": {
+    "browser-sync": "^2.24.4",
     "gulp": "^4.0.0"
   }
 }
